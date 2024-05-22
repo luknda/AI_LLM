@@ -11,7 +11,7 @@ git add .
 git commit -m "%commit_message%"
 
 :: Push the changes to the remote repository
-git push origin main
+git push origin master
 
 :: Print a success message
 echo Changes have been pushed to GitHub successfully.
